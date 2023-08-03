@@ -164,7 +164,7 @@
 		"update-check": "1.5.4",
 		"uuid": "9.0.0",
 		"uuid-validate": "0.0.3",
-		"vm2": "3.9.14",
+		"vm2": "3.9.19",
 		"wellknown": "0.5.0"
 	},
 	"devDependencies": {
